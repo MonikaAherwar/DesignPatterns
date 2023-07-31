@@ -7,9 +7,7 @@ It attaches additional responsibilities to an object dynamically. Decorators pro
 - When we want to avoid violating Open Close Principle. This pattern ensures it.
 
 # Example
-- Vending Machine
-- 
-
+- Coffee Shop
 
 # Sources
 - Book: Head First Design Pattern
