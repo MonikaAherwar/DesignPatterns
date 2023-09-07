@@ -1,5 +1,5 @@
 # Strategy Pattern
-Lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+Lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable. Thus Strategy lets the algorithm vary independently from the client that used it.
 
 # When to use
 - When child class doesn't want to inherit each function of Parent class.
